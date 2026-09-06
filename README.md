@@ -156,7 +156,7 @@ Remote-sensing-based analysis of **Land Use/Land Cover dynamics** to identify sp
   
 <img width="9919" height="7019" alt="study area121" src="https://github.com/user-attachments/assets/d1e08eab-7496-4f35-a3aa-28c91797ac7c" />
 <img width="9919" height="7019" alt="new class122" src="https://github.com/user-attachments/assets/17235344-58a3-48b7-9ff8-0922e942cee2" />
-<img width="2245" height="1587" alt="atiba" src="https://github.com/user-attachments/assets/2488a165-6de9-43b0-81a3-b3311145f451" />
+<img width="9919" height="7019" alt="new class121" src="https://github.com/user-attachments/assets/10163520-dae8-46aa-9729-dd7d8029b6f3" />
 <img width="2245" height="1587" alt="atiba" src="https://github.com/user-attachments/assets/191a36ca-f8f0-4f5b-ad72-1f8d0e0226a5" />
 
 **Tools**
