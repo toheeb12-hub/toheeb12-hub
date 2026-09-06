@@ -1,6 +1,10 @@
+<!-- ========================================================= -->
+<!--                 TOHEEB ADEYEMO — GITHUB                   -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=TOHEEB%20ADEYEMO&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Surveying and Geoinformatis Student%20GIS and Remote Sensing Speialist%20%7C%20GIS%20%7C%20Passionate about Spatial Data Analysis and Mapping Technologies&descAlignY=60&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=TOHEEB%20ADEYEMO&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Geoinformatics%20%7C%20GIS%20%7C%20Remote%20Sensing%20%7C%20Earth%20Observation&descAlignY=58&descSize=18"/>
 
 # 👋 Hi, I'm Toheeb Adeyemo
 
