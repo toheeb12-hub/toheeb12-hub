@@ -114,7 +114,7 @@ Currently strengthening my skills in **Python, R, Google Earth Engine, spatial m
 
 Machine-learning-based spatial modelling of **Soil Organic Carbon (SOC)** using environmental covariates and Earth observation data.
 
-**Model:** Random Forest
+**Model:** Random Forest and Multiple Linear regression
 
 **Performance:**
 
@@ -125,6 +125,10 @@ Machine-learning-based spatial modelling of **Soil Organic Carbon (SOC)** using 
 `MAE = 0.9303`
 
 **Tools**
+<img width="1326" height="575" alt="ee-chart - Copy" src="https://github.com/user-attachments/assets/07dc3a9b-7518-4ef4-abaf-128b5b0132d7" />
+<img width="2245" height="1587" alt="MLR" src="https://github.com/user-attachments/assets/2d0e5d1e-a9f9-4ee5-8885-994308a0a2da" />
+<img width="1587" height="1123" alt="Random Forest" src="https://github.com/user-attachments/assets/452d5986-bc6d-4383-ac80-8f5eecad8006" />
+<img width="794" height="1123" alt="DEM" src="https://github.com/user-attachments/assets/62b76c62-4a47-434b-adb8-13e3166d64a6" />
 
 `Python` `Google Colab` `Arc GIS Pro` `GEE` `Random Forest` `Multiple Linear Regression` 
 
@@ -165,6 +169,7 @@ The project explores the use of spatial datasets and GIS analysis for:
 * Environmental planning
 * Climate adaptation
 * Vulnerability mapping
+<img width="1587" height="1123" alt="inudation" src="https://github.com/user-attachments/assets/d865fd05-88e9-4908-825a-402a9ce86c21" />
 
 **Tools**
 
