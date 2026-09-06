@@ -2,13 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=TOHEEB%20ADEYEMO&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=GEOSPATIAL%20ANALYST%20%7C%20GIS%20%7C%20REMOTE%20SENSING%20%7C%20EARTH%20OBSERVATION&descAlignY=60&descSize=16"/>
 
-<div align="center">
-
-# 👋 Hi, I'm Toheeb Adeyemo
-
-### 🌍 Geospatial Analyst | Surveying & Geoinformatics | GIS | Remote Sensing | Earth Observation
-
-**Turning geospatial data into insights for environmental, urban and infrastructure applications.**
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
@@ -19,12 +12,6 @@
 </div>
 
 ---
-
-## 🛰️ About Me
-
-I'm a **Surveying and Geoinformatics graduate from Nigeria** with a strong interest in using geospatial technologies to understand and solve real-world environmental, urban and infrastructure challenges.
-
-My work combines **GIS, Remote Sensing, Earth Observation, Surveying, UAV technology, spatial analysis and machine learning**.
 
 I'm particularly interested in developing data-driven geospatial solutions for:
 
