@@ -114,7 +114,7 @@ Currently strengthening my skills in **Python, R, Google Earth Engine, spatial m
 
 Machine-learning-based spatial modelling of **Soil Organic Carbon (SOC)** using environmental covariates and Earth observation data.
 
-**Model:** Random Forest and Multiple Linear regression
+**Model:** Ordinary Kriging, Random Forest and Multiple Linear regression
 
 **Performance:**
 
@@ -123,12 +123,19 @@ Machine-learning-based spatial modelling of **Soil Organic Carbon (SOC)** using 
 `RMSE = 1.2325`
 
 `MAE = 0.9303`
+<img width="3507" height="4960" alt="NIGERIA SOIL MAP" src="https://github.com/user-attachments/assets/70a8d7fa-7ffb-4799-b960-29a7e854d61e" />
+<img width="1587" height="1123" alt="KRIGING_PREDICTION_MAP" src="https://github.com/user-attachments/assets/950a6391-21a9-4a40-ba7a-b36ab93b8c82" />
+<img width="1587" height="1123" alt="SOIL ORGANIC CARBON MAP" src="https://github.com/user-attachments/assets/8c6cf51f-411f-494f-8188-c0dbaeb7b3af" />
+<img width="794" height="1123" alt="DEM" src="https://github.com/user-attachments/assets/b7b99624-80a3-4700-be63-9c09d80faa67" />
+<img width="2245" height="1587" alt="Oyo Random Forest 2" src="https://github.com/user-attachments/assets/9af3d4ae-4b11-4a1a-bb93-d4c2daa1c95b" />
+<img width="2245" height="1587" alt="Oyo Random Forest 2 - Copy" src="https://github.com/user-attachments/assets/ab489993-3afc-461e-831e-2625dd6ff420" />
+<img width="1326" height="575" alt="ee-chart - Copy" src="https://github.com/user-attachments/assets/016413af-c170-4d8d-8cf1-1de34bb65f02" />
+<img width="1587" height="1123" alt="Random Forest" src="https://github.com/user-attachments/assets/7f190624-c514-43f7-a80c-8e91ce8ec7cd" />
+<img width="1587" height="1123" alt="Random Forest Residual" src="https://github.com/user-attachments/assets/0a2823b7-bd03-4344-b8ea-b834e858ec29" />
+<img width="1587" height="2245" alt="MLR 2" src="https://github.com/user-attachments/assets/1eb74a61-2079-44a9-a6c0-aef383f58f07" />
+<img width="2245" height="1587" alt="MLR" src="https://github.com/user-attachments/assets/914ad5f7-f4a8-451f-9a77-44ac60d582a1" />
 
 **Tools**
-<img width="1326" height="575" alt="ee-chart - Copy" src="https://github.com/user-attachments/assets/07dc3a9b-7518-4ef4-abaf-128b5b0132d7" />
-<img width="2245" height="1587" alt="MLR" src="https://github.com/user-attachments/assets/2d0e5d1e-a9f9-4ee5-8885-994308a0a2da" />
-<img width="1587" height="1123" alt="Random Forest" src="https://github.com/user-attachments/assets/452d5986-bc6d-4383-ac80-8f5eecad8006" />
-<img width="794" height="1123" alt="DEM" src="https://github.com/user-attachments/assets/62b76c62-4a47-434b-adb8-13e3166d64a6" />
 
 `Python` `Google Colab` `Arc GIS Pro` `GEE` `Random Forest` `Multiple Linear Regression` 
 
@@ -146,12 +153,15 @@ Remote-sensing-based analysis of **Land Use/Land Cover dynamics** to identify sp
 * Environmental monitoring
 * Land management
 * Sustainable planning
+<img width="2245" height="1587" alt="atiba" src="https://github.com/user-attachments/assets/c63c996f-7950-47f6-b422-bac91d82748e" />
+<img width="9919" height="7019" alt="study area121" src="https://github.com/user-attachments/assets/d1e08eab-7496-4f35-a3aa-28c91797ac7c" />
+
+<img width="9919" height="7019" alt="new class122" src="https://github.com/user-attachments/assets/beb81556-8213-41d4-a699-e002628e9a3b" />
+<img width="9919" height="7019" alt="new class121" src="https://github.com/user-attachments/assets/3ab9c453-b1f8-4592-baa1-f64394fa69de" />
 
 **Tools**
 
 `Google Earth Engine` `ArcGIS Pro`
-
-🔗 **Repository:** Coming soon
 
 </td>
 </tr>
