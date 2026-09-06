@@ -2,8 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=TOHEEB%20ADEYEMO&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=GEOSPATIAL%20ANALYST%20%7C%20GIS%20%7C%20REMOTE%20SENSING%20%7C%20EARTH%20OBSERVATION&descAlignY=60&descSize=16"/>
 
+# 👋 Hi, I'm Toheeb Adeyemo
 
-<p>
+### 🌍 Geospatial Analyst | Surveying & Geoinformatics | GIS | Remote Sensing | Earth Observation
+
+**Turning geospatial data into insights for environmental, urban, infrastructure and sustainable-development applications.**
+
+<br>
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat" alt="GitHub followers"/>
   <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat" alt="GitHub stars"/>
@@ -12,6 +17,12 @@
 </div>
 
 ---
+
+## 🛰️ About Me
+
+I'm a **Surveying and Geoinformatics Student from Nigeria** with a strong interest in using geospatial technologies to understand and solve real-world environmental, urban and infrastructure challenges.
+
+My work combines **GIS, Remote Sensing, Earth Observation, Surveying, UAV technology, spatial analysis and machine learning**.
 
 I'm particularly interested in developing data-driven geospatial solutions for:
 
@@ -116,9 +127,7 @@ Machine-learning-based spatial modelling of **Soil Organic Carbon (SOC)** using 
 
 **Tools**
 
-`Python` `Google Colab` `QGIS` `GEE` `Random Forest`
-
-🔗 **Repository:** Coming soon
+`Python` `Google Colab` `Arc GIS Pro` `GEE` `Random Forest` `Multiple Linear Regression` 
 
 </td>
 
@@ -137,7 +146,7 @@ Remote-sensing-based analysis of **Land Use/Land Cover dynamics** to identify sp
 
 **Tools**
 
-`Google Earth Engine` `QGIS` `ArcGIS Pro`
+`Google Earth Engine` `ArcGIS Pro`
 
 🔗 **Repository:** Coming soon
 
@@ -162,31 +171,11 @@ The project explores the use of spatial datasets and GIS analysis for:
 
 `GIS` `Remote Sensing` `Spatial Analysis`
 
-🔗 **Repository:** Coming soon
 
 </td>
 
 <td width="50%">
 
-### 🚁 UAV Residential Site Survey
-
-Participated in the geospatial development of a **42-acre residential site at Ajoda, Lagos**.
-
-**Activities**
-
-* DGPS control establishment
-* UAV flight planning
-* Boundary mapping
-* Orthomosaic generation
-* Development layout
-* Cadastral GIS
-* Infrastructure setting out
-
-**Tools**
-
-`DJI Phantom 4` `UniStrong DGPS` `AutoCAD` `ArcGIS Pro`
-
-🔗 **Repository:** Coming soon
 
 </td>
 </tr>
@@ -198,7 +187,7 @@ Participated in the geospatial development of a **42-acre residential site at Aj
 
 ### Longitudinal & Cross-Sectional Road Survey
 
-My undergraduate final-year project focused on the **survey and modelling of a section of LAUTECH Road, Ogbomoso**.
+My undergraduate final-year project would focus on the **survey and modelling of a section of LAUTECH Road, Ogbomoso**.
 
 The project involved:
 
@@ -242,7 +231,7 @@ The project involved:
 | 🗺️ GIS                 | Spatial analysis, cartography & geodatabases    |
 | 🛰️ Remote Sensing      | Satellite imagery & Earth observation           |
 | 🌱 Digital Soil Mapping | SOC, soil properties & environmental covariates |
-| 🤖 Geospatial ML        | Random Forest & predictive modelling            |
+| 🤖 Geospatial ML        | Random Forest, Multiple Linear Regression       |
 | 🚁 UAV Mapping          | Photogrammetry & site mapping                   |
 | 🏙️ Urban Analytics     | Development & spatial planning                  |
 | 🌊 Hydrography          | Bathymetry & marine geospatial applications     |
@@ -252,7 +241,7 @@ The project involved:
 
 # 🏆 Leadership & Community
 
-### 🇳🇬 Nigerian Institution of Surveying & Geoinformatics Students
+### Nigerian Institution of Surveying & Geoinformatics Students
 
 **Pioneer President — LAUTECH Chapter**
 
@@ -303,7 +292,7 @@ I'm seeking opportunities where I can apply geospatial technology and data scien
 
 **Interested in:**
 
-`Geospatial Analyst` • `GIS Analyst` • `Remote Sensing` • `Earth Observation` • `Spatial Data Science` • `Surveying` • `Environmental Mapping` • `Urban Analytics` • `Hydrographic Surveying` • `Maritime Data Analytics`
+`Geospatial Analyst` • `Remote Sensing` • `Earth Observation` • `Spatial Data Science` • `Environmental Mapping` • `Urban Analytics` • `Hydrographic Surveying` • `Maritime Data Analytics`
 
 ---
 
