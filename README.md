@@ -18,7 +18,7 @@
 
 ## 🛰️ About Me
 
-I'm a **Surveying and Geoinformatics graduate from Nigeria** with a strong interest in using geospatial technologies to understand and solve real-world environmental, urban and infrastructure challenges.
+I'm a **Surveying and Geoinformatics student from Nigeria** with a strong interest in using geospatial technologies to understand and solve real-world environmental, urban and infrastructure challenges.
 
 My work combines **GIS, Remote Sensing, Earth Observation, Surveying, UAV technology, spatial analysis and machine learning**.
 
@@ -125,7 +125,7 @@ Machine-learning-based spatial modelling of **Soil Organic Carbon (SOC)** using 
 
 **Tools**
 
-`Python` `Google Colab` `QGIS` `GEE` `Random Forest`
+`Python` `Google Colab` `ArcGIS Pro` `GEE` `Random Forest`
 
 🔗 **Repository:** Coming soon
 
@@ -207,9 +207,9 @@ Participated in the geospatial development of a **42-acre residential site at Aj
 
 ### Longitudinal & Cross-Sectional Road Survey
 
-My undergraduate final-year project focused on the **survey and modelling of a section of LAUTECH Road, Ogbomoso**.
+My undergraduate final-year project would focus on the **survey and modelling of a section of LAUTECH Road, Ogbomoso**.
 
-The project involved:
+The project would involve:
 
 * Survey control densification
 * GNSS observations
