@@ -7,10 +7,14 @@
 **Turning geospatial data into insights for environmental, urban and infrastructure applications.**
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat" alt="GitHub stars"/>
+  <img src="https://komarev.com/ghpvc/?username=toheeb12-hub&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/toheeb12-hub?label=Followers&style=flat" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/toheeb12-hub?label=Stars&style=flat" alt="GitHub Stars"/>
 </p>
+
+</div>
+
+---
 
 </div>
 
