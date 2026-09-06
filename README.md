@@ -181,26 +181,6 @@ The project explores the use of spatial datasets and GIS analysis for:
 
 <td width="50%">
 
-### 🚁 UAV Residential Site Survey
-
-Participated in the geospatial development of a **42-acre residential site at Ajoda, Lagos**.
-
-**Activities**
-
-* DGPS control establishment
-* UAV flight planning
-* Boundary mapping
-* Orthomosaic generation
-* Development layout
-* Cadastral GIS
-* Infrastructure setting out
-
-**Tools**
-
-`DJI Phantom 4` `UniStrong DGPS` `AutoCAD` `ArcGIS Pro`
-
-🔗 **Repository:** Coming soon
-
 </td>
 </tr>
 </table>
