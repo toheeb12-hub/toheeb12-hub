@@ -128,7 +128,6 @@ Machine-learning-based spatial modelling of **Soil Organic Carbon (SOC)** using 
 <img width="1587" height="1123" alt="SOIL ORGANIC CARBON MAP" src="https://github.com/user-attachments/assets/8c6cf51f-411f-494f-8188-c0dbaeb7b3af" />
 <img width="794" height="1123" alt="DEM" src="https://github.com/user-attachments/assets/b7b99624-80a3-4700-be63-9c09d80faa67" />
 <img width="2245" height="1587" alt="Oyo Random Forest 2" src="https://github.com/user-attachments/assets/9af3d4ae-4b11-4a1a-bb93-d4c2daa1c95b" />
-<img width="2245" height="1587" alt="Oyo Random Forest 2 - Copy" src="https://github.com/user-attachments/assets/ab489993-3afc-461e-831e-2625dd6ff420" />
 <img width="1326" height="575" alt="ee-chart - Copy" src="https://github.com/user-attachments/assets/016413af-c170-4d8d-8cf1-1de34bb65f02" />
 <img width="1587" height="1123" alt="Random Forest" src="https://github.com/user-attachments/assets/7f190624-c514-43f7-a80c-8e91ce8ec7cd" />
 <img width="1587" height="1123" alt="Random Forest Residual" src="https://github.com/user-attachments/assets/0a2823b7-bd03-4344-b8ea-b834e858ec29" />
