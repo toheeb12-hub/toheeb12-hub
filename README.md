@@ -153,11 +153,22 @@ Remote-sensing-based analysis of **Land Use/Land Cover dynamics** to identify sp
 * Environmental monitoring
 * Land management
 * Sustainable planning
-<img width="2245" height="1587" alt="atiba" src="https://github.com/user-attachments/assets/c63c996f-7950-47f6-b422-bac91d82748e" />
 <img width="9919" height="7019" alt="study area121" src="https://github.com/user-attachments/assets/d1e08eab-7496-4f35-a3aa-28c91797ac7c" />
 
-<img width="9919" height="7019" alt="new class122" src="https://github.com/user-attachments/assets/beb81556-8213-41d4-a699-e002628e9a3b" />
-<img width="9919" height="7019" alt="new class121" src="https://github.com/user-attachments/assets/3ab9c453-b1f8-4592-baa1-f64394fa69de" />
+<p align="center">
+  <img src="images/lulc_unsupervised_2025.png" width="48%">
+  <img src="images/lulc_supervised_2025.png" width="48%">
+  <img width="2245" height="1587" alt="atiba" src="https://github.com/user-attachments/assets/2488a165-6de9-43b0-81a3-b3311145f451" />
+
+</p>
+
+
+<p align="center">
+  <b>Unsupervised Classification</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Supervised Classification</b>
+</p>
+
 
 **Tools**
 
