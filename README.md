@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=TOHEEB%20ADEYEMO&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Geoinformatics%20%7C%20GIS%20%7C%20Remote%20Sensing%20%7C%20Earth%20Observation&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=TOHEEB%20ADEYEMO&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=SurveyingandGeoinformaticsStudent%20GISandRemoteSensingSpecialist%20%7C%20PassionateaboutSpatialDataAnalysisandMappingTechnologies&descAlignY=58&descSize=18"/>
 
 # 👋 Hi, I'm Toheeb Adeyemo
 
