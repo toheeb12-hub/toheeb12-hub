@@ -131,7 +131,8 @@ Machine-learning-based spatial modelling of **Soil Organic Carbon (SOC)** using 
 
 `Python` `Google Colab` `ArcGIS Pro` `GEE` `Random Forest`
 
-🔗 **Repository:** Coming soon
+<img width="1587" height="1123" alt="Random Forest" src="https://github.com/user-attachments/assets/175fba56-4649-4dd2-8032-e58cdb8c2b3b" />
+<img width="1587" height="1123" alt="Random Forest Residual" src="https://github.com/user-attachments/assets/c90321f0-2b19-411c-9c21-6cd6b47a76fd" />
 
 </td>
 
