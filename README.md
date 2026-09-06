@@ -296,7 +296,7 @@ I'm seeking opportunities where I can apply geospatial technology and data scien
 
 **Interested in:**
 
-`Geospatial Analyst` • `GIS Analyst` • `Remote Sensing` • `Earth Observation` • `Spatial Data Science` • `Surveying` • `Environmental Mapping` • `Urban Analytics` • `Hydrographic Surveying` • `Maritime Data Analytics`
+`Geospatial Analyst` • `Remote Sensing` • `Earth Observation` • `Spatial Data Science` • `Environmental Mapping` • `Urban Analytics` • `Hydrographic Surveying` • `Maritime Data Analytics`
 
 ---
 
