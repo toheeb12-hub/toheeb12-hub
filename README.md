@@ -133,6 +133,10 @@ Machine-learning-based spatial modelling of **Soil Organic Carbon (SOC)** using 
 
 <img width="1587" height="1123" alt="Random Forest" src="https://github.com/user-attachments/assets/175fba56-4649-4dd2-8032-e58cdb8c2b3b" />
 <img width="1587" height="1123" alt="Random Forest Residual" src="https://github.com/user-attachments/assets/c90321f0-2b19-411c-9c21-6cd6b47a76fd" />
+<img width="3179" height="2245" alt="Oyo Random Forest" src="https://github.com/user-attachments/assets/f6dceaac-0591-437c-b35b-e61ed5ab3a4b" />
+<img width="2245" height="1587" alt="Oyo Random Forest 2" src="https://github.com/user-attachments/assets/0ae5e371-3255-48f3-9f82-88b7988e18a3" />
+<img width="1326" height="575" alt="ee-chart" src="https://github.com/user-attachments/assets/5c5cb504-e3a8-4b2b-9d4d-f4b42a046dc2" />
+
 
 </td>
 
