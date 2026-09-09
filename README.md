@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=TOHEEB%20ADEYEMO&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=GEOSPATIAL%20ANALYST%20%7C%20GIS%20%7C%20REMOTE%20SENSING%20%7C%20EARTH%20OBSERVATION&descAlignY=60&descSize=16"/>
 
-# 👋 Hi, I'm Toheeb Adeyemo
+# Hi, I'm Toheeb Adeyemo
 
 
 **Turning geospatial data into insights for environmental, urban, infrastructure and sustainable-development applications.**
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛰️ About Me
+##  About Me
 
 I'm a **Surveying and Geoinformatics Student from Nigeria** with a strong interest in using geospatial technologies to understand and solve real-world environmental, urban and infrastructure challenges.
 
@@ -25,40 +25,40 @@ My work combines **GIS, Remote Sensing, Earth Observation, Surveying, UAV techno
 
 I'm particularly interested in developing data-driven geospatial solutions for:
 
-* 🌱 Environmental & soil monitoring
-* 🛰️ Earth observation & remote sensing
-* 🗺️ GIS & spatial data science
-* 🏙️ Urban development & smart cities
-* 🌊 Coastal & hydrographic applications
-* 🚁 UAV/drone mapping
-* 🤖 Machine learning for geospatial analysis
-* 🌍 Climate & environmental applications
+*  Environmental & soil monitoring
+*  Earth observation & remote sensing
+*  GIS & spatial data science
+*  Urban development & smart cities
+*  Coastal & hydrographic applications
+*  UAV/drone mapping
+*  Machine learning for geospatial analysis
+*  Climate & environmental applications
 
 ---
 
-## 🔭 What I'm Working On
+##  What I'm Working On
 
 ```text
-🌱 Digital Soil Mapping
+ Digital Soil Mapping
         ↓
-🛰️ Earth Observation
+ Earth Observation
         ↓
-🗺️ GIS & Spatial Analysis
+ GIS & Spatial Analysis
         ↓
-🐍 Python / R
+ Python / R
         ↓
-🤖 Machine Learning
+ Machine Learning
         ↓
-🌍 Geospatial Decision Support
+ Geospatial Decision Support
 ```
 
 Currently strengthening my skills in **Python, R, Google Earth Engine, spatial machine learning, remote sensing and geospatial data science**.
 
 ---
 
-# 🛠️ Technology & Skills
+#  Technology & Skills
 
-### 🌍 GIS & Geospatial
+###  GIS & Geospatial
 
 <p>
 <img src="https://img.shields.io/badge/ArcGIS%20Pro-2C7A3F?style=for-the-badge&logo=arcgis&logoColor=white"/>
@@ -69,7 +69,7 @@ Currently strengthening my skills in **Python, R, Google Earth Engine, spatial m
 <img src="https://img.shields.io/badge/Civil%203D-EF1515?style=for-the-badge&logo=autodesk&logoColor=white"/>
 </p>
 
-### 🛰️ Remote Sensing & Earth Observation
+###  Remote Sensing & Earth Observation
 
 <p>
 <img src="https://img.shields.io/badge/Remote%20Sensing-0B6E4F?style=for-the-badge"/>
@@ -80,7 +80,7 @@ Currently strengthening my skills in **Python, R, Google Earth Engine, spatial m
 <img src="https://img.shields.io/badge/DEM%20Analysis-795548?style=for-the-badge"/>
 </p>
 
-### 🐍 Programming & Data Science
+###  Programming & Data Science
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -91,7 +91,7 @@ Currently strengthening my skills in **Python, R, Google Earth Engine, spatial m
 <img src="https://img.shields.io/badge/Spatial%20Statistics-6A1B9A?style=for-the-badge"/>
 </p>
 
-### 📐 Surveying & Data Acquisition
+### Surveying & Data Acquisition
 
 <p>
 <img src="https://img.shields.io/badge/GNSS%20%2F%20DGPS-1565C0?style=for-the-badge"/>
@@ -104,13 +104,13 @@ Currently strengthening my skills in **Python, R, Google Earth Engine, spatial m
 
 ---
 
-# 🚀 Featured Geospatial Projects
+#  Featured Geospatial Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌱 Soil Organic Carbon Mapping
+###  Soil Organic Carbon Mapping
 
 Machine-learning-based spatial modelling of **Soil Organic Carbon (SOC)** using environmental covariates and Earth observation data.
 
@@ -142,7 +142,7 @@ Machine-learning-based spatial modelling of **Soil Organic Carbon (SOC)** using 
 
 <td width="50%">
 
-### 🛰️ LULC Change Detection
+###  LULC Change Detection
 
 Remote-sensing-based analysis of **Land Use/Land Cover dynamics** to identify spatial and environmental changes.
 
@@ -168,7 +168,7 @@ Remote-sensing-based analysis of **Land Use/Land Cover dynamics** to identify sp
 <tr>
 <td width="50%">
 
-### 🌊 Coastal Inundation Mapping
+###  Coastal Inundation Mapping
 
 GIS-based assessment of **coastal inundation risk in Epe, Lagos State**.
 
@@ -196,7 +196,7 @@ The project explores the use of spatial datasets and GIS analysis for:
 
 ---
 
-# 📐 Surveying & Geospatial Engineering
+#  Surveying & Geospatial Engineering
 
 ### Longitudinal & Cross-Sectional Road Survey
 
@@ -217,7 +217,7 @@ The project involved:
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <div align="center">
 
@@ -237,36 +237,26 @@ The project involved:
 
 ---
 
-# 🧭 Geospatial Focus Areas
+#  Geospatial Focus Areas
 
 | Area                    | Focus                                           |
 | ----------------------- | ----------------------------------------------- |
-| 🗺️ GIS                 | Spatial analysis, cartography & geodatabases    |
-| 🛰️ Remote Sensing      | Satellite imagery & Earth observation           |
-| 🌱 Digital Soil Mapping | SOC, soil properties & environmental covariates |
-| 🤖 Geospatial ML        | Random Forest, Multiple Linear Regression       |
-| 🚁 UAV Mapping          | Photogrammetry & site mapping                   |
-| 🏙️ Urban Analytics     | Development & spatial planning                  |
-| 🌊 Hydrography          | Bathymetry & marine geospatial applications     |
-| 🌍 Climate Applications | Flooding, inundation & environmental monitoring |
+|  GIS                 | Spatial analysis, cartography & geodatabases    |
+|  Remote Sensing      | Satellite imagery & Earth observation           |
+|  Digital Soil Mapping | SOC, soil properties & environmental covariates |
+|  Geospatial ML        | Random Forest, Multiple Linear Regression       |
+|  UAV Mapping          | Photogrammetry & site mapping                   |
+|  Urban Analytics     | Development & spatial planning                  |
+|  Hydrography          | Bathymetry & marine geospatial applications     |
+|  Climate Applications | Flooding, inundation & environmental monitoring |
 
 ---
-
-# 🏆 Leadership & Community
-
-### Nigerian Institution of Surveying & Geoinformatics Students
-
-**Pioneer President — LAUTECH Chapter**
-
-### 🌍 YouthMappers
-
-**Team Leader — LAUTECH Chapter**
 
 I'm interested in using **open geospatial data, mapping and technology** to support communities and improve spatial decision-making.
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 ```text
 Advanced Python for Geospatial Analysis
@@ -299,7 +289,7 @@ Geospatial Data Science
 
 ---
 
-# 🎯 Career Interests
+#  Career Interests
 
 I'm seeking opportunities where I can apply geospatial technology and data science to real-world problems.
 
@@ -309,7 +299,7 @@ I'm seeking opportunities where I can apply geospatial technology and data scien
 
 ---
 
-# 🤝 Let's Connect
+#  Let's Connect
 
 <div align="center">
 
@@ -331,8 +321,8 @@ I'm seeking opportunities where I can apply geospatial technology and data scien
 
 <div align="center">
 
-### 🌍 *Mapping the world. Modelling the data. Solving real problems.*
+###  *Mapping the world. Modelling the data. Solving real problems.*
 
-⭐ **Explore my repositories to see my geospatial work in action.**
+ **Explore my repositories to see my geospatial work in action.**
 
 </div>
